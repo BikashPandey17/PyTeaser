@@ -1,0 +1,8 @@
+title: Pyteaser
+description: Summarizes news articles by providing an url
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-leap-day
+
+gems:
+  - jekyll-mentions
